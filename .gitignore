@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+secrets.txt
+!important.log
+node_modules/
