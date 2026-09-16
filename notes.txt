@@ -1,1 +1,5 @@
-Change from the cloned repo
+My new line that is supposed to conflict
+Hello Git
+Learning version control
+Adding a new line in another branch
+This is the Conflict-test version
