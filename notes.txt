@@ -1,2 +1,3 @@
 Hello Git
 Learning version control
+Adding a new line in another branch
