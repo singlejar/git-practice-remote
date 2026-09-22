@@ -4,3 +4,4 @@ Hello Git
 Learning version control
 Adding a new line in another branch
 This is the Conflict-test version
+Useful fix line
